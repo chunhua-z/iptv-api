@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-21 18:24:05,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-22 06:23:16,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -29,10 +29,7 @@ CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-海南卫视,http://36.105.100.208:35455/itv/5000000004000006211.m3u8
-河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-天津卫视,http://125.42.151.98:9901/tsfile/live/0130_1.m3u8
