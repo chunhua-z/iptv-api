@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-16 18:25:33,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-17 06:19:37,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CETV-1,https://httop.top/ysp-cetv1
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
